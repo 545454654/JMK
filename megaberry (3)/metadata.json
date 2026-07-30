@@ -1,0 +1,6 @@
+{
+  "name": "Megaberry",
+  "description": "Megaberry - تطبيق التوقعات الإحترافي لمحرك لعبة تفاحة الحظ 1xBet / SHARK BET V2 مع الكود JMK2",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
